@@ -1,0 +1,4 @@
+@EndUserText.label: 'Serviço Odata cds_basic'
+define service ZSD_CDS_BASIC {
+  expose ZDD_CDS_BASIC as Agency;
+}
